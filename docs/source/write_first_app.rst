@@ -406,9 +406,9 @@ the network. ``ccp`` describes the network that the gateway will access with the
 identity ``user1`` from ``wallet``. See how the ``ccp`` has been loaded from
 ``../../basic-network/connection.json`` and parsed as a JSON file:
 
-这段代码创建了一个新网关，然后通过它让应用程序连接到网络。 ``cpp`` 描述了网关将
+这段代码创建了一个新网关，然后通过它让应用程序连接到网络。 ``ccp`` 描述了网关将
 通过 ``wallet`` 中的 ``user1`` 来使用网络。打开 ``../../basic-network/connection.json`` 
-来查看 ``cpp`` 是如何解析一个 JSON 文件的：
+来查看 ``ccp`` 是如何解析一个 JSON 文件的：
 
 .. code:: bash
 
